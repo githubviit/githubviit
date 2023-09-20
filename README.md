@@ -48,7 +48,7 @@ Welcome to my developer journey on the Grand Line! I'm Gaurav Wani, an aspiring 
 
 -If you're ready to embark on a coding adventure together or just want to chat about the latest One Piece episode, feel free to reach out:
 
-- 📫 [Email](mailto:your.email@example.com)
+- 📫 [Email](gaurav.22110895@viit.ac.in)
 
 - 🐦 [Twitter](https://twitter.com/yourusername)
 
