@@ -5,6 +5,21 @@
 
 Welcome to my developer journey on the Grand Line! I'm Gaurav Wani, an aspiring pirate of the tech world, sailing through the sea of code. Just like Monkey D. Luffy, I've got the determination to conquer any challenge that comes my way!
 
+<div align="center">
+  <img height="150" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif"  />
+</div>
+
+<div align="center">
+
+Here's my GitHub statistics:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
+
+ 
+Here are my top programming languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubviit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+</div>
 
 
 
