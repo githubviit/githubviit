@@ -5,7 +5,7 @@
 
 Welcome to my developer journey on the Grand Line! I'm Gaurav Wani, an aspiring pirate of the tech world, sailing through the sea of code. Just like Monkey D. Luffy, I've got the determination to conquer any challenge that comes my way!
 
-![Alt Text](https://example.com/image.jpg)
+
 
 
 ## 🌊 About Me
@@ -55,3 +55,4 @@ Welcome to my developer journey on the Grand Line! I'm Gaurav Wani, an aspiring 
 - 🏴‍☠️ [GitHub](https://github.com/yourusername)
 
 Now, hoist the anchor and let's navigate the world of tech like true pirates! YO-HO-HO! 🏴‍☠️
+![LOt«](https://wallpapercave.com/wp/wp8303821.png)
